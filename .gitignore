@@ -8,6 +8,7 @@ __pycache__/
 
 # Ignoring dataset due to its large file size
 dataset.zip
+dataset
 
 # Distribution / packaging
 .Python
