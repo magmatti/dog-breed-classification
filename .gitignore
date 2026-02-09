@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore custom devcontainer for CUDA Blackwell support
+.devcontainer
+
 # Ignoring dataset due to its large file size
 dataset.zip
 dataset
